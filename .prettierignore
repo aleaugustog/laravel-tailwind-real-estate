@@ -1,0 +1,6 @@
+*.yml
+vendor/
+public/
+storage/
+bootstrap/
+node_modules/

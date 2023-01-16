@@ -1,0 +1,10 @@
+{
+    "arrowParens": "always",
+    "braceStyle": "psr-2",
+    "endOfLine": "lf",
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "es5",
+    "trailingCommaPHP": true,
+    "phpVersion": "8.1"
+}
